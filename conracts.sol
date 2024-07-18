@@ -4,8 +4,7 @@
 
 //------------------------------------------Translation---------------------------------------------------------------------------------------------------------------
 
-// The development was carried out by an employee supervising the project and consisting in the protocol and investment department, 
-//as well as an active GO and BlockChain developer.Employee ID: 1396 (Mikhail Timofeev)
+.Employee ID: 1396 (Mikhail Timofeev)
 // Developed a decentralization system in the protocol. Works on Shale. Privacy goes to elixir via k8s.
 // The address may work crookedly due to the binding to the JVM (I'll fix it in a week!!!!), 
 //completely rewritten and corrected the errors of decentralization! you can work through Erlang!
